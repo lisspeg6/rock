@@ -1,23 +1,21 @@
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog de Rock</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Blog de Rock</h1>
-            <nav>
-                <ul>
-                    <li><a href="/filmes">Filmes</a></li>
-                    <li><a href="/personagens">Ícones do Rock</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<header>
+    <h1>Bem-vindo ao mundo radical !!!</h1>
+</header>
+<nav>
+    <ul>
+        <li><a href="/rock">Início</a></li>
+        <li><a href="/rock/personagens">personagens</a></li>
+        <li><a href="/rock/filme">filme</a></li>
 
-    </body>
-</html>
+    </ul>
+</nav>
+
+
+
+<footer>
+    <p>&copy; 2025 Blog de rock - Todos os direitos reservados.</p>
+</footer>
+
+
+    
+    
