@@ -12,8 +12,8 @@
             <h1>Blog de Rock</h1>
             <nav>
                 <ul>
-                    <li><a href="/rock/filmes">Filmes</a></li>
-                    <li><a href="/rock/personagens">Ícones do Rock</a></li>
+                    <li><a href="/filmes">Filmes</a></li>
+                    <li><a href="/personagens">Ícones do Rock</a></li>
                 </ul>
             </nav>
         </div>
